@@ -11,6 +11,12 @@ a planar 2-DOF robot arm and visuallized the simulated arm.
 This 3D rendering was implemented only for educational and testing puproses and is by no means optimaized. The machine is
 only capable of  rendering triangles in different shades of gray.Texturing and more advanced stuffed are not implemented.
 This basic functionallity was the the minimum nessecary for visuallizing the robot motion.
+The user can control the camera with the by rotating or displacing it using the arrow keys and the QWEASDZX keys.
+The functionallity of the rendering machine is implemented in the KritsEngine.cpp file.
+
+Also we need to note that in order to use this code you need to change the settings and include the needed SFML libraries in your VS project.
+You can find out how to do that in their tutorials.
+
 
 #Robot Simultion
 
