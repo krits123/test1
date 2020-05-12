@@ -1,5 +1,5 @@
 # test1
-
+![Simulated Arm Demo](demo/demo.gif)
 #General
 
 In this project i made a custom 3D Rendering machine by using the SFML library for 2D graphics.Then i implemented a simulation for 
